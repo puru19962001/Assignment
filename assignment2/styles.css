@@ -1,0 +1,24 @@
+.main{
+    margin: 10% 28%;
+    background-color: aquamarine;
+    padding: 2%;
+    text-align: left;
+}
+button{
+    font-size: large;
+    position: relative;
+    left: 35%;
+}
+#print{
+    text-align: center;
+    font-size: 55px;
+}
+h1{
+    color: brown;
+}
+button:hover{
+    background-color: darksalmon;
+}
+h2{
+    color: blue;
+}

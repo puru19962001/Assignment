@@ -1,0 +1,32 @@
+.main {
+margin-top: 100px;
+}
+body{
+    background-color: #10F2EB;
+    text-align: center;
+}
+label{
+    font-size: 30px;
+}
+h1{
+    color: red;
+    font-size: 50px;
+}
+button{
+    font-size: 20px;
+    text-align: center;
+}
+#print{
+    font-size: 30px;
+    text-align: center;
+}
+.details{
+    border: 1px solid black;
+    padding-top: 2%;
+    margin-left: 30%;
+    margin-right: 25%;
+    text-align: left;
+}
+button:hover{
+    background-color: darksalmon;
+}
